@@ -36,12 +36,12 @@ body {
   height: 1.5em;
 }
 
-/*.container {
+.container {
   width: 90%;
   margin: auto;
 }
 
-.mobile-wrapper {
+/*.mobile-wrapper {
   background: #fff;
   /* relative with .today-box::before*/
 
