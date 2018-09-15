@@ -315,13 +315,14 @@ body {
   font-weight: 300;
 }
 
-/*.upcoming-events .container .events-wrapper .event.active {
+.upcoming-events .container .events-wrapper .event.active {
   background: #e8e8e8;
   padding: 17px 0 5px 60px;
   margin-bottom: 38px;
   border-radius: 5px;
 }
-.upcoming-events .container .events-wrapper .event.active::after {
+
+/*.upcoming-events .container .events-wrapper .event.active::after {
   content: "";
   display: block;
   width: 90%;
