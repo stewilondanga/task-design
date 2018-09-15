@@ -62,10 +62,11 @@ body {
   margin-bottom: 40px;
 }
 
-/*.header .container {
+.header .container {
   position: relative;
 }
-.header .container span {
+
+/*.header .container span {
   color: #444;
   font-family: 'Ramabhadra';
   font-size: 21px;
