@@ -175,7 +175,7 @@ body {
   position: relative;
 }
 
-/*.today-box .breadcrumb::after {
+.today-box .breadcrumb::after {
   content: "\f3d1";
   font-family: 'Ionicons';
   vertical-align: middle;
@@ -188,7 +188,8 @@ body {
   left: 45px;
   top: 3px;
 }
-.today-box .date-title {
+
+/*.today-box .date-title {
   font-size: 20px;
   margin: 7px 0 0 0;
   letter-spacing: 1px;
