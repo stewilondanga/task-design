@@ -282,14 +282,15 @@ body {
   cursor: pointer;
 }
 
-/*.upcoming-events .container .events-wrapper .event i {
+.upcoming-events .container .events-wrapper .event i {
   font-size: 24px;
   font-weight: 100;
   position: absolute;
   left: 0;
   top: -4px;
 }
-.upcoming-events .container .events-wrapper .event .event__point {
+
+/*.upcoming-events .container .events-wrapper .event .event__point {
   margin: 0;
   color: #555;
   font-size: 15px;
