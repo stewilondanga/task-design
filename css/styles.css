@@ -106,10 +106,11 @@ body {
   transition: all 300ms ease;
 }
 
-/*.header .container .menu-toggle span:not(:last-child) {
+.header .container .menu-toggle span:not(:last-child) {
   margin-bottom: 5px;
 }
-.header .container .menu-toggle span:first-child {
+
+/*.header .container .menu-toggle span:first-child {
   width: 20px;
 }
 .header .container .menu-toggle span:last-child {
