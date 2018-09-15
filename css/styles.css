@@ -2,6 +2,10 @@ html {
   box-sizing: border-box;
 }
 
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -25,9 +29,6 @@ html {
   height: 1.5em;
 }
 
-*, *:before, *:after {
-  box-sizing: inherit;
-}
 
 * {
   outline: 0;
