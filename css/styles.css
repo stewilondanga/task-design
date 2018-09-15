@@ -290,14 +290,15 @@ body {
   top: -4px;
 }
 
-/*.upcoming-events .container .events-wrapper .event .event__point {
+.upcoming-events .container .events-wrapper .event .event__point {
   margin: 0;
   color: #555;
   font-size: 15px;
   font-weight: 800;
   letter-spacing: 1px;
 }
-.upcoming-events .container .events-wrapper .event .event__duration {
+
+/*.upcoming-events .container .events-wrapper .event .event__duration {
   position: absolute;
   top: 5px;
   right: 0;
