@@ -364,11 +364,11 @@ body {
   transition-timing-function: cubic-bezier(0.05, 1.8, 1, 1.57);
 }
 
-/*.upcoming-events .container .events-wrapper .event.active:hover .event__description::before {
+.upcoming-events .container .events-wrapper .event.active:hover .event__description::before {
   transform: translate(15px, -12px);
 }
 
-.hot {
+/*.hot {
   color: #ee6b51;
 }
 
