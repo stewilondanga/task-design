@@ -242,7 +242,7 @@ body {
   position: relative;
 }
 
-/*.upcoming-events .container h3::before {
+.upcoming-events .container h3::before {
   content: "";
   display: block;
   width: 58%;
@@ -253,7 +253,8 @@ body {
   transform: translatey(-60%);
   right: 0;
 }
-.upcoming-events .container h3::after {
+
+/*.upcoming-events .container h3::after {
   content: "\f3ff";
   font-family: 'Ionicons';
   color: rgba(0, 0, 0, 0.1);
