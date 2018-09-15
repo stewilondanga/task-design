@@ -210,10 +210,11 @@ body {
   transition-timing-function: cubic-bezier(0.05, 1.8, 1, 1.57);
 }
 
-/*.today-box .plus-icon:hover {
+.today-box .plus-icon:hover {
   transform: translateY(-40%);
 }
-.today-box .plus-icon i {
+
+/*.today-box .plus-icon i {
   font-size: 22px;
   font-weight: 700;
   background: #fff;
