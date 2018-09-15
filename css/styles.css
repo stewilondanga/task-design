@@ -66,13 +66,14 @@ body {
   position: relative;
 }
 
-/*.header .container span {
+.header .container span {
   color: #444;
   font-family: 'Ramabhadra';
   font-size: 21px;
   font-weight: 700;
 }
-.header .container h1 {
+
+/*.header .container h1 {
   margin-top: 5px;
   color: #919294;
   font-size: 13px;
