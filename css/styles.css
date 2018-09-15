@@ -372,11 +372,11 @@ body {
   color: #ee6b51;
 }
 
-/*.done {
+.done {
   color: #999 !important;
 }
 
-.icon-in-active-mode {
+/*.icon-in-active-mode {
   color: #43ff28;
   font-size: 20px !important;
 }
