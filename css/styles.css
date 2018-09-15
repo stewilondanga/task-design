@@ -376,12 +376,12 @@ body {
   color: #999 !important;
 }
 
-/*.icon-in-active-mode {
+.icon-in-active-mode {
   color: #43ff28;
   font-size: 20px !important;
 }
 
-.upcoming {
+/*.upcoming {
   font-weight: bold;
   color: #777;
 }
