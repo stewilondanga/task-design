@@ -308,13 +308,14 @@ body {
   font-style: italic;
 }
 
-/*.upcoming-events .container .events-wrapper .event .event__description {
+.upcoming-events .container .events-wrapper .event .event__description {
   margin-top: 10px;
   color: #919294;
   font-size: 13px;
   font-weight: 300;
 }
-.upcoming-events .container .events-wrapper .event.active {
+
+/*.upcoming-events .container .events-wrapper .event.active {
   background: #e8e8e8;
   padding: 17px 0 5px 60px;
   margin-bottom: 38px;
