@@ -110,10 +110,11 @@ body {
   margin-bottom: 5px;
 }
 
-/*.header .container .menu-toggle span:first-child {
+.header .container .menu-toggle span:first-child {
   width: 20px;
 }
-.header .container .menu-toggle span:last-child {
+
+/*.header .container .menu-toggle span:last-child {
   width: 15px;
 }
 .header .container .menu-toggle:hover span:first-child, .header .container .menu-toggle:hover span:last-child {
