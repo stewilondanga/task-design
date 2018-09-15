@@ -153,7 +153,7 @@ body {
   margin-bottom: 50px;
 }
 
-/*.today-box::before {
+.today-box::before {
   content: "";
   background: linear-gradient(to left, #485fed, rgba(255, 44, 118, 0.25)), #485fed;
   opacity: 0.4;
@@ -169,7 +169,8 @@ body {
   border-radius: 50%;
   box-shadow: 0px 0px 40px 0 #485fed;
 }
-.today-box .breadcrumb {
+
+/*.today-box .breadcrumb {
   font-weight: 300;
   position: relative;
 }
