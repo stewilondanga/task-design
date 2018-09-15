@@ -41,23 +41,20 @@ body {
   margin: auto;
 }
 
-/*.mobile-wrapper {
+.mobile-wrapper {
   background: #fff;
   /* relative with .today-box::before*/
-
-z-index: 1;
-/*positive*/
-
-position: relative;
-/*---------*/
-
-width: 380px;
-min-height: 100%;
-margin: auto;
-padding: 10px 0 20px;
-border-radius: 10px;
-box-shadow: 0px 10px 30px -10px #000;
-overflow: hidden;
+  z-index: 1;
+  /*positive*/
+  position: relative;
+  /*---------*/
+  width: 380px;
+  min-height: 100%;
+  margin: auto;
+  padding: 10px 0 20px;
+  border-radius: 10px;
+  box-shadow: 0px 10px 30px -10px #000;
+  overflow: hidden;
 }
 
 /*
