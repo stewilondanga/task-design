@@ -343,7 +343,7 @@ body {
   top: 17px;
 }
 
-/*.upcoming-events .container .events-wrapper .event.active .event__description::before, .upcoming-events .container .events-wrapper .event.active .event__description::after {
+.upcoming-events .container .events-wrapper .event.active .event__description::before, .upcoming-events .container .events-wrapper .event.active .event__description::after {
   content: "\f3d1";
   font-family: 'Ionicons';
   font-size: 32px;
@@ -356,7 +356,8 @@ body {
   transform: translateY(-50%);
   cursor: pointer;
 }
-.upcoming-events .container .events-wrapper .event.active .event__description::before {
+
+/*.upcoming-events .container .events-wrapper .event.active .event__description::before {
   right: 45px;
   font-size: 22px;
   transition: all 550ms ease;
