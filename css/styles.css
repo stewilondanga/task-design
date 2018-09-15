@@ -6,6 +6,10 @@ html {
   box-sizing: inherit;
 }
 
+* {
+  outline: 0;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -27,11 +31,6 @@ html {
 
 .my_social a img {
   height: 1.5em;
-}
-
-
-* {
-  outline: 0;
 }
 
 body {
