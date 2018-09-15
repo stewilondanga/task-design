@@ -386,7 +386,7 @@ body {
   color: #777;
 }
 
-/*.add-event-button {
+.add-event-button {
   display: flex;
   align-items: center;
   margin-left: auto;
@@ -397,7 +397,8 @@ body {
   cursor: pointer;
   box-shadow: 0px 0px 40px -9px #485fed;
 }
-.add-event-button:active {
+
+/*.add-event-button:active {
   position: relative;
   top: 2px;
   left: 2px;
