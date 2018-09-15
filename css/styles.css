@@ -275,13 +275,14 @@ body {
   margin-bottom: 30px;
 }
 
-/*.upcoming-events .container .events-wrapper .event {
+.upcoming-events .container .events-wrapper .event {
   position: relative;
   margin-bottom: 25px;
   padding-left: 30px;
   cursor: pointer;
 }
-.upcoming-events .container .events-wrapper .event i {
+
+/*.upcoming-events .container .events-wrapper .event i {
   font-size: 24px;
   font-weight: 100;
   position: absolute;
