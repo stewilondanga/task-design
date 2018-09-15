@@ -368,11 +368,11 @@ body {
   transform: translate(15px, -12px);
 }
 
-/*.hot {
+.hot {
   color: #ee6b51;
 }
 
-.done {
+/*.done {
   color: #999 !important;
 }
 
