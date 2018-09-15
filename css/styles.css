@@ -235,13 +235,14 @@ body {
   box-shadow: 0px 8px 30px -14px #000;
 }
 
-/*.upcoming-events .container h3 {
+.upcoming-events .container h3 {
   color: #333;
   font-size: 17px;
   margin-bottom: 30px;
   position: relative;
 }
-.upcoming-events .container h3::before {
+
+/*.upcoming-events .container h3::before {
   content: "";
   display: block;
   width: 58%;
