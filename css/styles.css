@@ -57,12 +57,12 @@ body {
   overflow: hidden;
 }
 
-/*
 .header {
   padding-bottom: 15px;
   margin-bottom: 40px;
 }
-.header .container {
+
+/*.header .container {
   position: relative;
 }
 .header .container span {
