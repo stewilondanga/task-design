@@ -337,12 +337,13 @@ body {
   transform: translatex(-50%);
 }
 
-/*.upcoming-events .container .events-wrapper .event.active i {
+.upcoming-events .container .events-wrapper .event.active i {
   position: absolute;
   left: 25px;
   top: 17px;
 }
-.upcoming-events .container .events-wrapper .event.active .event__description::before, .upcoming-events .container .events-wrapper .event.active .event__description::after {
+
+/*.upcoming-events .container .events-wrapper .event.active .event__description::before, .upcoming-events .container .events-wrapper .event.active .event__description::after {
   content: "\f3d1";
   font-family: 'Ionicons';
   font-size: 32px;
