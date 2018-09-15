@@ -10,6 +10,17 @@ html {
   outline: 0;
 }
 
+body {
+  background: linear-gradient(45deg, #13495f, #764be2, #8373c6, #77d3b9);
+  background-attachment: fixed;
+  height: 100vh;
+  padding: 3rem 0;
+  margin: 0;
+  color: #555;
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -31,17 +42,6 @@ html {
 
 .my_social a img {
   height: 1.5em;
-}
-
-body {
-  background: linear-gradient(45deg, #13495f, #764be2, #8373c6, #77d3b9);
-  background-attachment: fixed;
-  height: 100vh;
-  padding: 3rem 0;
-  margin: 0;
-  color: #555;
-  font-family: 'Lato', sans-serif;
-  font-size: 14px;
 }
 
 .container {
