@@ -170,11 +170,12 @@ body {
   box-shadow: 0px 0px 40px 0 #485fed;
 }
 
-/*.today-box .breadcrumb {
+.today-box .breadcrumb {
   font-weight: 300;
   position: relative;
 }
-.today-box .breadcrumb::after {
+
+/*.today-box .breadcrumb::after {
   content: "\f3d1";
   font-family: 'Ionicons';
   vertical-align: middle;
