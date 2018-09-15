@@ -214,7 +214,7 @@ body {
   transform: translateY(-40%);
 }
 
-/*.today-box .plus-icon i {
+.today-box .plus-icon i {
   font-size: 22px;
   font-weight: 700;
   background: #fff;
@@ -227,7 +227,8 @@ body {
   align-items: center;
   justify-content: center;
 }
-.today-box .plus-icon:active {
+
+/*.today-box .plus-icon:active {
   top: 52%;
   transform: translatey(-52%);
   right: 38px;
