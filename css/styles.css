@@ -413,13 +413,14 @@ body {
   font-weight: 600;
 }
 
-/*.add-event-button .add-event-button__icon {
+.add-event-button .add-event-button__icon {
   display: inline-block;
   background: rgba(255, 255, 255, 0.1);
   padding: 0 17px 0 12px;
   height: 100%;
 }
-.add-event-button .add-event-button__icon i {
+
+/*.add-event-button .add-event-button__icon i {
   margin: 0;
   color: #fff;
   font-size: 25px;
