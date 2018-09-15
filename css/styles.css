@@ -134,7 +134,7 @@ body {
   right: 0px;
 }
 
-/*.header .container::after {
+.header .container::after {
   content: "";
   display: block;
   width: calc(100% - 10px);
@@ -144,7 +144,7 @@ body {
   top: 8px;
 }
 
-.today-box {
+/*.today-box {
   background: linear-gradient(to left, #485fed, rgba(255, 44, 118, 0.25)), #485fed;
   color: #FFF;
   padding: 37px 40px;
