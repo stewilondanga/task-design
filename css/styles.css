@@ -254,7 +254,7 @@ body {
   right: 0;
 }
 
-/*.upcoming-events .container h3::after {
+.upcoming-events .container h3::after {
   content: "\f3ff";
   font-family: 'Ionicons';
   color: rgba(0, 0, 0, 0.1);
@@ -270,7 +270,8 @@ body {
   right: 60px;
   top: -10px;
 }
-.upcoming-events .container .events-wrapper {
+
+/*.upcoming-events .container .events-wrapper {
   margin-bottom: 30px;
 }
 .upcoming-events .container .events-wrapper .event {
