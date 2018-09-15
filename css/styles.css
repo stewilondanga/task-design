@@ -298,7 +298,7 @@ body {
   letter-spacing: 1px;
 }
 
-/*.upcoming-events .container .events-wrapper .event .event__duration {
+.upcoming-events .container .events-wrapper .event .event__duration {
   position: absolute;
   top: 5px;
   right: 0;
@@ -307,7 +307,8 @@ body {
   font-weight: 800;
   font-style: italic;
 }
-.upcoming-events .container .events-wrapper .event .event__description {
+
+/*.upcoming-events .container .events-wrapper .event .event__description {
   margin-top: 10px;
   color: #919294;
   font-size: 13px;
