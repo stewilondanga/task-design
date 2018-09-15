@@ -271,10 +271,11 @@ body {
   top: -10px;
 }
 
-/*.upcoming-events .container .events-wrapper {
+.upcoming-events .container .events-wrapper {
   margin-bottom: 30px;
 }
-.upcoming-events .container .events-wrapper .event {
+
+/*.upcoming-events .container .events-wrapper .event {
   position: relative;
   margin-bottom: 25px;
   padding-left: 30px;
