@@ -118,10 +118,11 @@ body {
   width: 15px;
 }
 
-/*.header .container .menu-toggle:hover span:first-child, .header .container .menu-toggle:hover span:last-child {
+.header .container .menu-toggle:hover span:first-child, .header .container .menu-toggle:hover span:last-child {
   width: 100%;
 }
-.header .container::before {
+
+/*.header .container::before {
   content: "";
   display: block;
   width: 0;
