@@ -322,7 +322,7 @@ body {
   border-radius: 5px;
 }
 
-/*.upcoming-events .container .events-wrapper .event.active::after {
+.upcoming-events .container .events-wrapper .event.active::after {
   content: "";
   display: block;
   width: 90%;
@@ -336,7 +336,8 @@ body {
   left: 50%;
   transform: translatex(-50%);
 }
-.upcoming-events .container .events-wrapper .event.active i {
+
+/*.upcoming-events .container .events-wrapper .event.active i {
   position: absolute;
   left: 25px;
   top: 17px;
